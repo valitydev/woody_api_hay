@@ -4,8 +4,8 @@
     {applications, [
         kernel,
         stdlib,
-        woody,
-        how_are_you
+        genlib,
+        ranch
     ]},
     {env, []},
     {maintainers, [
